@@ -1,3 +1,4 @@
+```
 var rawHtml = [{
 	tag : "ux-button",
 	attr : {
@@ -16,3 +17,4 @@ var rawHtml = [{
 }];
 
 var output = makeHTML(rawHtml);
+```
