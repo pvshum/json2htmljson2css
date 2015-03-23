@@ -1,0 +1,26 @@
+{
+  "name": "json2htmljson2css",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pvshum/json2htmljson2css.git"
+  },
+  "keywords": [
+    "json",
+    "html",
+    "css",
+    "json2html",
+    "json2css"
+  ],
+  "author": "Pavel Shum <pv.shum@gmail.com> (https://github.com/pvshum/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvshum/json2htmljson2css/issues"
+  },
+  "homepage": "https://github.com/pvshum/json2htmljson2css"
+}
