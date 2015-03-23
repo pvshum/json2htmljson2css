@@ -2,9 +2,8 @@
 
 ## Converting JSON to HTML
 ```
-	makeHTML = require('json2htmljson2css').makeHTML;
-```
-```
+makeHTML = require('json2htmljson2css').makeHTML;
+
 var htmlObj = [{
 	tag : "ux-button",
 	attr : {
