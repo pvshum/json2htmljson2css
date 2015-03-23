@@ -1,6 +1,6 @@
 {
   "name": "json2htmljson2css",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert JSON string to HTML or CSS",
   "main": "index.js",
   "scripts": {
